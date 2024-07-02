@@ -22,9 +22,9 @@
 
 https://youtu.be/dGSUpGZzszI?si=uHUi7UkfjTamkFmO 
 
-# Código: 
+# Software:
 
-Software: ArduinoIDE
+ArduinoIDE
 
 # Alunos:
 * Luysa de Souza Gonçalves
